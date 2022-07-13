@@ -4,4 +4,4 @@ singleton
 File Operation
 waits
 upload file
-Image downloader
+Json file uploading
